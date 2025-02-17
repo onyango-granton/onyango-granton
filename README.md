@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 ![Onyango Granton GitHub stats](https://github-readme-stats.vercel.app/api?username=onyango-granton&show_icons=true&theme=ambient_gradient)
 
+<div align="center">
 ![snake gif](https://github.com/onyango-granton/onyango-granton/blob/output/github-snake.svg)
+</div>
