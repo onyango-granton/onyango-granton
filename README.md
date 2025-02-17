@@ -14,15 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
+
 - Studied Software Engineering at [University Of Eastern Africa, Baraton](https://ueab.ac.ke/)
 - Studying Software Design at [Zone 01](https://www.zone01kisumu.ke/)
 - Lets talk about art, software design, code optimization, innovation and creation
 <!-- "As you must die, Remember to live. And whatever you are be a good one" -->
-</div>
-<div>
+
 ![Onyango Granton GitHub stats](https://github-readme-stats.vercel.app/api?username=onyango-granton&show_icons=true&theme=ambient_gradient)
-</div>
-<div>
+
 ![snake gif](https://github.com/onyango-granton/onyango-granton/blob/output/github-snake-dark.svg)
-</div>
