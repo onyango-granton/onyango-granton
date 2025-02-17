@@ -1,7 +1,7 @@
 <div align="center">
 
-### Call me, Granton 😎
-A Digital nomad 🥷🏻... bent on creating memories in life and in software design. Driven by innovation, simplicity and optimization.</br>
+## Call me, Granton 😎
+A Digital nomad 🥷🏻... bent on creating memories in life and in software design. Driven by innovation, simplicity and optimization.
 - Studied Software Engineering at [University Of Eastern Africa, Baraton](https://ueab.ac.ke/)
 - Studying Software Design at [Zone 01](https://www.zone01kisumu.ke/)
 
