@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 - Lets talk about art, software design, code optimization, innovation and creation
 <!-- "As you must die, Remember to live. And whatever you are be a good one" -->
 
+<div align="center">
+  
 ![Onyango Granton GitHub stats](https://github-readme-stats.vercel.app/api?username=onyango-granton&show_icons=true&theme=ambient_gradient)
+</div>
 
 <div align="center">
   
