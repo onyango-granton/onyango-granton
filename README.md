@@ -1,24 +1,27 @@
 ### Call me, Granton 😎
-
-<!--
-**onyango-granton/onyango-granton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+A digital nomad... bent on creating memories in life and in software design. Driven by innovation, simplicity and optimization.
 - Studied Software Engineering at [University Of Eastern Africa, Baraton](https://ueab.ac.ke/)
 - Studying Software Design at [Zone 01](https://www.zone01kisumu.ke/)
 - Lets talk about art, software design, code optimization, innovation and creation
-<!-- "As you must die, Remember to live. And whatever you are be a good one" -->
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+</div>
+
+<div align="center">
+  
+![snake gif](https://github.com/onyango-granton/onyango-granton/blob/output/github-snake.svg)
+</div>
+
+<div align="center">
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onyango-granton&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onyango-granton&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onyango-granton&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
 <div align="center">
   
